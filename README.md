@@ -19,3 +19,7 @@ Direct server address: `creative.uwmc.club`
 ## Survival Mode
 
 Direct server address: `survival.uwmc.club`
+
+# Resources
+
+Join our discord chat room: https://discord.gg/jHdeJ4C
